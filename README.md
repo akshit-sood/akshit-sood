@@ -32,7 +32,7 @@ Love python.
 <img alt="Adobe Premiere Pro" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136555.svg"/>|<img alt="Adobe After Effects" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136520.svg"/>|<img alt="Adobe Audition" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136519.svg"/>|<img alt="Audacity" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Audacity_Logo_nofilter.svg"/>
 |--|--|--|--|
 
- **📫 How to reach me: ...**
+ **📫 How to reach me:**
 ---
  [<img align="left" alt="Twitter - Akshit Sood" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />](https://twitter.com/AkshitSood16) [<img align="left" alt="Instagram - Akshit Sood" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" />](https://www.instagram.com/akshitsood_978/) [<img align="left" alt="LinkedIn - Akshit Sood" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg" />](https://www.linkedin.com/in/akshitsood978)  [<img align="left" alt="Email -Akshit Sood" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />](mailto:akshitsood978@gmail.com)
 
