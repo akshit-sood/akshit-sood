@@ -34,7 +34,7 @@ Love python.
 
  **📫 How to reach me:**
 ---
- [<img align="left" alt="Twitter - Akshit Sood" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />](https://twitter.com/AkshitSood16) [<img align="left" alt="Instagram - Akshit Sood" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" />](https://www.instagram.com/akshitsood_978/) [<img align="left" alt="LinkedIn - Akshit Sood" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg" />](https://www.linkedin.com/in/akshitsood978)  [<img align="left" alt="Email -Akshit Sood" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />](mailto:akshitsood978@gmail.com)
+ [<img align="left" alt="Twitter - Akshit Sood" width="30px" src="![image](https://user-images.githubusercontent.com/60150400/144740512-f36f4648-f00c-4fec-94bc-1f670fafb3ac.png)" />](https://twitter.com/AkshitSood16) [<img align="left" alt="Instagram - Akshit Sood" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" />](https://www.instagram.com/akshitsood_978/) [<img align="left" alt="LinkedIn - Akshit Sood" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg" />](https://www.linkedin.com/in/akshitsood978)  [<img align="left" alt="Email -Akshit Sood" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />](mailto:akshitsood978@gmail.com)
 
 
 <!--
