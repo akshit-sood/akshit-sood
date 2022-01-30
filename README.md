@@ -21,7 +21,7 @@ Love python.
  
  <img alt="Ubuntu" width="30px" src="ubuntu.png"/>|<img alt="Git" width="30px" src="git.png"/>|<img alt="VSCode" width="30px" src="Visual_Studio_Code_1.35_icon.svg.png"/>|<img alt="windows" width="30px" src="windows.png"/>|<img alt="visual-studio" width="30px" src="visual-studio.png"/>|
 
- |--|--|--|--|
+ |--|--|--|--|--|
  
 
 
