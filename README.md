@@ -10,7 +10,7 @@ Love python.
 
 ---
 <a href="https://app.daily.dev/akshitsood"><img src="https://api.daily.dev/devcards/2f73977439234b279699a7a72a3c5663.png?r=ufx" width="400" alt="Akshit Sood's Dev Card"/></a>
- ## My Skills <img alt="Computer" width="40px" src="<a href="https://www.flaticon.com/free-icons/worker"/>
+ ## My Skills <a href="https://www.flaticon.com/free-icons/worker" title="worker icons">Worker icons created by catkuro - Flaticon</a>
 
  **Languages and Frameworks**
  
