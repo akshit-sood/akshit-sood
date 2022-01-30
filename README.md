@@ -28,7 +28,10 @@ Love python.
 
 
  [<img align="left" alt="Twitter - Akshit Sood" width="30px" src="5296514_bird_tweet_twitter_twitter logo_icon.png" />](https://twitter.com/AkshitSood16) [<img align="left" alt="Instagram - Akshit Sood" width="30px" src="1298747_instagram_brand_logo_social media_icon.png" />](https://www.instagram.com/akshitsood_978/) [<img align="left" alt="LinkedIn - Akshit Sood" width="30px" src="5296501_linkedin_network_linkedin logo_icon.png" />](https://www.linkedin.com/in/akshitsood978)  [<img align="left" alt="Email -Akshit Sood" width="30px" src="7089163_gmail_google_icon.png" />](mailto:akshitsood978@gmail.com)
- |--|--|--|--|
+ |--|
+ 
+ 
+ 
 <!--
 **akshit-sood/akshit-sood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
