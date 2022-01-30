@@ -19,22 +19,15 @@ Love python.
  
  **Tools**
  
- <img alt="Ubuntu" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/888/888879.svg"/>|<img alt="Linux" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/226/226772.svg"/>|<img alt="Git" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"/>|<img alt="VSCode" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg"/>|
+ <img alt="Ubuntu" width="30px" src="ubuntu.png"/>|<img alt="Git" width="30px" src="git.png"/>|<img alt="VSCode" width="30px" src="Visual_Studio_Code_1.35_icon.svg.png"/>|<img alt="windows" width="30px" src="windows.png"/>|<img alt="visual-studio" width="30px" src="visual-studio.png"/>|
+
  |--|--|--|--|
  
- **Designing and Photo Editing**
- 
-<img alt="Adobe Photoshop" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136529.svg"/>|<img alt="Adobe Lightroom" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732170.svg"/>|<img alt="Gimp" width="30px" src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg"/>
- |--|--|--|
 
-**Audio & Video Editing**
-
-<img alt="Adobe Premiere Pro" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136555.svg"/>|<img alt="Adobe After Effects" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136520.svg"/>|<img alt="Adobe Audition" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/136/136519.svg"/>|<img alt="Audacity" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Audacity_Logo_nofilter.svg"/>
-|--|--|--|--|
 
  **📫 How to reach me:**
 ---
- [<img align="left" alt="Twitter - Akshit Sood" width="30px" src="![image](https://user-images.githubusercontent.com/60150400/144740512-f36f4648-f00c-4fec-94bc-1f670fafb3ac.png)" />](https://twitter.com/AkshitSood16) [<img align="left" alt="Instagram - Akshit Sood" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733558.svg" />](https://www.instagram.com/akshitsood_978/) [<img align="left" alt="LinkedIn - Akshit Sood" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg" />](https://www.linkedin.com/in/akshitsood978)  [<img align="left" alt="Email -Akshit Sood" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />](mailto:akshitsood978@gmail.com)
+ [<img align="left" alt="Twitter - Akshit Sood" width="30px" src="![image](5296514_bird_tweet_twitter_twitter logo_icon.png)" />](https://twitter.com/AkshitSood16) [<img align="left" alt="Instagram - Akshit Sood" width="30px" src="1298747_instagram_brand_logo_social media_icon.png" />](https://www.instagram.com/akshitsood_978/) [<img align="left" alt="LinkedIn - Akshit Sood" width="30px" src="5296501_linkedin_network_linkedin logo_icon.png" />](https://www.linkedin.com/in/akshitsood978)  [<img align="left" alt="Email -Akshit Sood" width="30px" src="7089163_gmail_google_icon.png" />](mailto:akshitsood978@gmail.com)
 
 
 <!--
