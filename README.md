@@ -27,7 +27,7 @@ Love python.
 ---
 
 
- [<img align="left" alt="Twitter - Akshit Sood" width="30px" src="twitter.png" />](https://twitter.com/AkshitSood16) [<img align="left" alt="Instagram - Akshit Sood" width="30px" src="instagram.png" />](https://www.instagram.com/akshitsood_978/) [<img align="left" alt="LinkedIn - Akshit Sood" width="30px" src="linkedin.png" />](https://www.linkedin.com/in/akshitsood978)  [<img align="left" alt="Email -Akshit Sood" width="30px" src="gmail.png" />](mailto:akshitsood978@gmail.com)
+ [<img align="left" alt="Twitter - Akshit Sood" width="30px" src="twitter.png" />](https://twitter.com/AkshitSood16) [<img align="left" alt="Instagram - Akshit Sood" width="30px" src="instagram.png" />](https://www.instagram.com/mr.akshit.sood/) [<img align="left" alt="LinkedIn - Akshit Sood" width="30px" src="linkedin.png" />](https://www.linkedin.com/in/akshitsood978)  [<img align="left" alt="Email -Akshit Sood" width="30px" src="gmail.png" />](mailto:akshitsood978@gmail.com)
  |--|
  
  
