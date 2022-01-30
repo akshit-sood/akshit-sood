@@ -19,8 +19,8 @@ Love python.
  
  **Tools**
  
-  <img alt="Ubuntu" width="30px" src="2993783_dot_social media_net_icon.png"/>|<img alt="Git" width="30px" src="git.png"/>|<img alt="VSCode" width="30px" src="Visual_Studio_Code_1.35_icon.svg.png"/>|<img alt="windows" width="30px" src="windows.png"/>|<img alt="visual-studio" width="30px" src="visual-studio.png"/>||<img alt="tailwindcss" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>|
- |--|--|--|--|--|--|--|
+  <img alt="Git" width="30px" src="git.png"/>|<img alt="VSCode" width="30px" src="Visual_Studio_Code_1.35_icon.svg.png"/>|<img alt="windows" width="30px" src="windows.png"/>|<img alt="visual-studio" width="30px" src="visual-studio.png"/>||<img alt="tailwindcss" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>|
+ |--|--|--|--|--|--|
  
 
 
