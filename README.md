@@ -14,7 +14,7 @@ Love python.
 
  **Languages and Frameworks**
  
- <img alt="Python" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/>|<img alt="HTML" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"/>|<img alt="CSS" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg"/>|<img alt="JavaScript" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg"/>|<img alt="Bootstrap" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/1348/1348052.svg"/>|<img alt="Bulma" width="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/17261479e64d27613dfd2f71e66eefae38b3d698/logos/bulma.svg"/>|<img alt="tailwindcss" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
+ <img alt="Python" width="30px" src="python.png"/>|<img alt="HTML" width="30px" src="html.png"/>|<img alt="CSS" width="30px" src="css.png"/>|<img alt="JavaScript" width="30px" src="javascript.png"/>|<img alt="Bootstrap" width="30px" src="bootstrap.png"/>|<img alt="dot-net" width="30px" src="2993783_dot_social media_net_icon.png"/>|<img alt="tailwindcss" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>|
  |--|--|--|--|--|--|--|
  
  **Tools**
