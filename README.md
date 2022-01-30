@@ -14,16 +14,13 @@ Love python.
 
  **Languages and Frameworks**
  
- <img alt="Python" width="30px" src="python.png"/>|<img alt="HTML" width="30px" src="html.png"/>|<img alt="CSS" width="30px" src="css.png"/>|<img alt="JavaScript" width="30px" src="javascript.png"/>|<img alt="Bootstrap" width="30px" src="bootstrap.png"/>|<img alt="dot-net" width="30px" src="2993783_dot_social media_net_icon.png"/>|<img alt="tailwindcss" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>|
- |--|--|--|--|--|--|--|
+ <img alt="Python" width="30px" src="python.png"/>|<img alt="HTML" width="30px" src="html.png"/>|<img alt="CSS" width="30px" src="css.png"/>|<img alt="JavaScript" width="30px" src="javascript.png"/>|<img alt="Bootstrap" width="30px" src="bootstrap.png"/>|<img alt="dot-net" width="30px" src="2993783_dot_social media_net_icon.png"/>|
+ |--|--|--|--|--|--|
  
  **Tools**
  
   <img alt="Ubuntu" width="30px" src="2993783_dot_social media_net_icon.png"/>|<img alt="Git" width="30px" src="git.png"/>|<img alt="VSCode" width="30px" src="Visual_Studio_Code_1.35_icon.svg.png"/>|<img alt="windows" width="30px" src="windows.png"/>|<img alt="visual-studio" width="30px" src="visual-studio.png"/>||<img alt="tailwindcss" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>|
  |--|--|--|--|--|--|--|
- 
-
- |--|--|--|--|--|
  
 
 
